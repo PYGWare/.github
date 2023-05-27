@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/pygware" target="blank"><img src="https://img.shields.io/twitter/follow/pygware?logo=twitter&style=for-the-badge" alt="pygware" /></a> </p>
 
+### Sobre a PYGWare  
+A PYGWare é uma empresa líder em desenvolvimento de softwares e soluções tecnológicas inovadoras. Com uma equipe altamente qualificada e apaixonada por tecnologia, estamos comprometidos em fornecer soluções personalizadas e eficientes para atender às necessidades específicas dos nossos clientes.
+
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [pygware.com](https://pygware.com)
 
 - 📫 E-mail **pygware@gmail.com**
