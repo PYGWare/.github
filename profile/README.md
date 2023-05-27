@@ -1,8 +1,6 @@
 <h1 align="center">Olá, somos a PYGWare</h1>
 <h3 align="center">🌐 Potencializando soluções tecnológicas</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pygware" alt="pygware" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pygware" target="blank"><img src="https://img.shields.io/twitter/follow/pygware?logo=twitter&style=for-the-badge" alt="pygware" /></a> </p>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [pygware.com](https://pygware.com)
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pygware&show_icons=true&locale=en&layout=compact" alt="pygware" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pygware&show_icons=true&locale=en" alt="pygware" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pygware&" alt="pygware" /></p>
